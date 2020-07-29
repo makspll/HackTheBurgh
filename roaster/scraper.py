@@ -12,8 +12,8 @@ import datetime
 
 
 url = 'https://www.reddit.com/r/RoastMe/'
-r = pr.Reddit(client_id='C-u-vJYPUPLdfg',
-                     client_secret='Hyw3NkOJrL6qufVnIgt7EZ7Xj8k',
+r = pr.Reddit(client_id='REMOVED',
+                     client_secret='REMOVED',
                      redirect_uri='http://localhost:8080',
                      user_agent='roastr scraper')
 
