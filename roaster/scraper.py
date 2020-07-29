@@ -21,18 +21,6 @@ r = pr.Reddit(client_id='REMOVED',
 handle = 'https://api.pushshift.io/reddit/search/submission/?'
 handleC = 'https://api.pushshift.io/reddit/search/comment/?'
 handleComment = 'https://api.pushshift.io/reddit/submission/comment_ids/'
-#POST data included in the URL, kinda like an attachment
-#we're asking for Client_credentials Flow for non-installed script type app
-
-#username = 'l_IBFD5bZOT_IA'
-#password = 'CYdIMyeTNQrzIQb1qXBdwM71rms'
-#encoded = base64.b64encode(username+':'+password)
-#!/usr/bin/env python
-
-#r = pr.Reddit(client_id='C-u-vJYPUPLdfg',
-#                 client_secret='Hyw3NkOJrL6qufVnIgt7EZ7Xj8k',
-#                 redirect_uri='http://localhost:8080',
-#                 user_agent='roastr scraper')
 
 def receive_connection():
     """Wait for and then return a connected socket..
