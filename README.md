@@ -14,3 +14,4 @@
 -  Gabi ([theHappyCarrot](https://github.com/theHappyCarrot))
 
 
+Blog post: https://maksmozolewski.co.uk/blog/spore-best-city-layout-genetic-algorithms/
